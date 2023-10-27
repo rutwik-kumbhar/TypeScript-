@@ -1,0 +1,22 @@
+.conter{
+    text-align: center;
+}
+
+.buttons{
+    width: 50%;
+    height: 30px;
+    margin: auto;
+}
+
+.buttons button{
+    margin-left: 120px;
+    height: 40px;
+    color: black;
+    border-radius: 10px;
+
+}
+
+.buttons button:hover{
+    background-color: green;
+    color: white;
+}
